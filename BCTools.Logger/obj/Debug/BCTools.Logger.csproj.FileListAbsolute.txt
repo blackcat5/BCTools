@@ -1,0 +1,7 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Logger\obj\Debug\BCTools.Logger.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Logger\bin\Debug\BCTools.Logger.dll
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Logger\bin\Debug\BCTools.Logger.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Logger\bin\Debug\BCTools.CustomConfig.dll
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Logger\bin\Debug\BCTools.CustomConfig.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Logger\obj\Debug\BCTools.Logger.dll
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Logger\obj\Debug\BCTools.Logger.pdb

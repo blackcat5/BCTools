@@ -1,0 +1,4 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.CustomConfig\bin\Debug\BCTools.CustomConfig.dll
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.CustomConfig\bin\Debug\BCTools.CustomConfig.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.CustomConfig\obj\Debug\BCTools.CustomConfig.dll
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.CustomConfig\obj\Debug\BCTools.CustomConfig.pdb

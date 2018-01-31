@@ -1,0 +1,10 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Dome\bin\Debug\BCTools.Deom.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Dome\bin\Debug\BCTools.Deom.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Dome\bin\Debug\BCTools.Logger.dll
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Dome\bin\Debug\BCTools.CustomConfig.dll
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Dome\bin\Debug\BCTools.Logger.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Dome\bin\Debug\BCTools.CustomConfig.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Dome\obj\x86\Debug\BCTools.Deom.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Dome\obj\x86\Debug\BCTools.Deom.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Dome\obj\x86\Debug\BCTools.Deom.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\BCTools.Logger\BCTools.Dome\bin\Debug\Logger.config
